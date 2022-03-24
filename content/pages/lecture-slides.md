@@ -26,7 +26,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Building Pax Tokugawa (PDF - 1.8MB)]({{< baseurl >}}/resources/mit21h_155s17_paxtokugawa)
+[Building Pax Tokugawa (PDF - 1.8MB)]({{< baseurl >}}/resources/mit21h_155s17_paxtokugawa)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,7 +35,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Samurai Disorder (PDF - 1.1MB)]({{< baseurl >}}/resources/mit21h_155s17_disorder)
+[Samurai Disorder (PDF - 1.1MB)]({{< baseurl >}}/resources/mit21h_155s17_disorder)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Culture of Enlightenment (PDF - 3.1MB)]({{< baseurl >}}/resources/mit21h_155s17_enlightenmnt)
+[The Culture of Enlightenment (PDF - 3.1MB)]({{< baseurl >}}/resources/mit21h_155s17_enlightenmnt)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Democracy and Constitutional Government (PDF)]({{< baseurl >}}/resources/mit21h_155s17_government)
+[Democracy and Constitutional Government (PDF)]({{< baseurl >}}/resources/mit21h_155s17_government)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Meiji Imperialism (PDF - 4.1MB)]({{< baseurl >}}/resources/mit21h_155s17_meiji)
+[Meiji Imperialism (PDF - 4.1MB)]({{< baseurl >}}/resources/mit21h_155s17_meiji)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Japan’s "Imperial Democracy" (PDF - 6.3MB)]({{< baseurl >}}/resources/mit21h_155s17_imperialdemo)
+[Japan’s "Imperial Democracy" (PDF - 6.3MB)]({{< baseurl >}}/resources/mit21h_155s17_imperialdemo)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ideologies of Crises (PDF)]({{< baseurl >}}/resources/mit21h_155s17_crises)
+[Ideologies of Crises (PDF)]({{< baseurl >}}/resources/mit21h_155s17_crises)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +152,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Allied Occupation (PDF)]({{< baseurl >}}/resources/mit21h_155s17_occupation)
+[The Allied Occupation (PDF)]({{< baseurl >}}/resources/mit21h_155s17_occupation)
 {{< tdclose >}}
 
 {{< trclose >}}
