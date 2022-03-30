@@ -4,6 +4,7 @@ description: 'This resource contains information regarding modern Japan lecture 
   Samurai disorder.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-155-modern-japan-1868-to-present-spring-2017/eb9b1531775e67b0c62c447b84dddbd8_MIT21H_155S17_Disorder.pdf
 file_type: application/pdf
+parent_uid: 6077ab2e-fcd7-89f4-7bab-091926a966bc
 resourcetype: Document
 title: '21H.155S17 Modern Japan Lecture Slides: Samurai Disorder'
 uid: eb9b1531-775e-67b0-c62c-447b84dddbd8
